@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45a2b05b-cb23-428e-8c2d-6c43b076ad30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj12Tertyshna/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj12Tertyshna/src/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj12Tertyshna/src/MatrixG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj14Tertyshna/src/BodyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj14Tertyshna/src/CalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj14Tertyshna/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj14Tertyshna/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj14Tertyshna/src/HumanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj14Tertyshna/src/Roots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj14Tertyshna/src/SquaEqua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj15Tertyshna/src/Berlin/Berghain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj15Tertyshna/src/Berlin/Schwutz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj15Tertyshna/src/Kyiv/Closer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj15Tertyshna/src/Kyiv/K41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj15Tertyshna/src/package1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj15Tertyshna/src/package1/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj15Tertyshna/src/package2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj15Tertyshna/src/package2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj17Tertyshna/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj17Tertyshna/src/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj17Tertyshna/src/Tasks_10_01_23/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj17Tertyshna/src/Tasks_10_01_23/ThisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj18Tertyshna/src/Cross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj18Tertyshna/src/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj18Tertyshna/src/Res.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj18Tertyshna/src/Zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj19TertyshnaTasks/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj23XO/src/Cross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj23XO/src/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj23XO/src/Res.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proj23XO/src/Zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tasks2.16.12.22/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tasks2.16.12.22/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tasks2.16.12.22/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tasks2.16.12.22/src/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tasks2.16.12.22/src/Snail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tasks2.16.12.22/src/matrix/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proj11Tertyshna/out/production/Proj11Tertyshna/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Proj11Tertyshna/out/production/Proj11Tertyshna/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proj11Tertyshna/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proj11Tertyshna/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proj5HW5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proj5HW5/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Kb3G8GhmM2yldGZ1WB1IF5oGod" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/49160/Desktop/Study/JAVA/Proj10_HW",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45a2b05b-cb23-428e-8c2d-6c43b076ad30" name="Changes" comment="" />
+      <created>1674229356774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674229356774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
